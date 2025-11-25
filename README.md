@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Sami  
 
-💻 **Backend Developer (Laravel | Node.js)** with 4+ years of experience building secure, scalable, and high-performance applications.  
+💻 **Backend Developer (Laravel | Node.js)** with 5 years of experience building secure, scalable, and high-performance applications.  
 Passionate about **REST APIs, system design, and performance optimization**, with growing full-stack skills in **React.js & Next.js**.  
 
 ---
